@@ -1,14 +1,15 @@
 :root {
-  color-scheme: light;
-  --ink: #15191e;
+  color-scheme: dark;
+  --ink: #151515;
   --paper: #f8f6e9;
-  --muted: #4c5655;
+  --muted: #c6c4b8;
   --teal: #68e1cf;
-  --rule: #bfc9bd;
+  --muse: #f4ff52;
+  --rule: #515149;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
-body { margin: 0; background: var(--paper); color: var(--ink); font: 1rem/1.6 system-ui, sans-serif; }
+body { margin: 0; background: var(--ink); color: var(--paper); font: 1rem/1.6 system-ui, sans-serif; }
 img { display: block; max-width: 100%; height: auto; }
 a { color: inherit; text-underline-offset: .2em; }
 a:focus-visible { outline: 3px solid currentColor; outline-offset: 4px; }
@@ -35,12 +36,13 @@ nav a, .site-footer a { font-size: .9rem; }
 .hero-mark { width: min(100%, 22rem); justify-self: end; }
 .actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.8rem; }
 .button { display: inline-flex; align-items: center; justify-content: center; gap: .75rem; min-height: 48px; padding: .6rem 1rem; text-decoration: none; font-weight: 700; }
-.button-primary { background: var(--teal); color: var(--ink); }
-.button-primary:focus-visible { outline-color: var(--teal); }
+.button-primary { background: var(--muse); color: var(--ink); }
+.button-primary:focus-visible { outline-color: var(--muse); }
 .button-secondary { border: 1px solid #a4aeaa; }
 .button:hover { text-decoration: underline; }
 
 .release { display: grid; grid-template-columns: minmax(0, 1.04fr) minmax(0, 1fr); gap: clamp(1.6rem, 4.5vw, 4.4rem); align-items: center; padding-block: clamp(2.5rem, 7vw, 5.5rem); }
+.release-links a, #atlas-meta-muse a { color: var(--muse); }
 .release-label { display: flex; gap: .65rem; align-items: center; font-weight: 700; color: var(--muted); margin-bottom: .9rem; }
 .release-copy > p:not(.release-label) { margin-top: 1rem; max-width: 49ch; color: var(--muted); }
 .release-links { display: flex; flex-wrap: wrap; gap: .35rem 1.25rem; padding: 0; margin: 1.1rem 0 0; list-style: none; }
@@ -48,7 +50,7 @@ nav a, .site-footer a { font-size: .9rem; }
 figure img { width: 100%; border: 1px solid var(--rule); }
 figcaption { margin-top: .5rem; color: var(--muted); font-size: .875rem; }
 
-.platform-section { background: #e5eee4; padding-block: clamp(2.8rem, 6vw, 5rem); scroll-margin-top: 1rem; }
+.platform-section { background: #20201e; padding-block: clamp(2.8rem, 6vw, 5rem); scroll-margin-top: 1rem; }
 .platforms { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 1.7rem 0 0; padding: 0; list-style: none; border-top: 1px solid var(--rule); border-left: 1px solid var(--rule); }
 .platforms li { padding: 1.15rem; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
 .platforms p { margin: .6rem 0 .4rem; color: var(--muted); }
