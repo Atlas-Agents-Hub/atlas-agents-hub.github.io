@@ -2,20 +2,21 @@
 
 # Atlas Agents Hub
 
-We build AI assistants and apps you can make your own. Choose a specialist, use a working app as your starting point, or add individual skills to an assistant you already use.
+Atlas Agents Hub is a collection of platform-specific AI assistant hubs. Choose the hub for the platform you use, then build on its specialist assistants, skills, workflows, and projects.
 
-## Muse Hub
+| Platform | What the hub is for |
+| --- | --- |
+| [Meta Muse Personal AI Assistant](https://atlas-agents-hub.github.io/#atlas-meta-muse) | Specialist assistants, working Spaces, planning tools, and a searchable skill library. |
+| [ChatGPT and Codex](https://atlas-agents-hub.github.io/#atlas-chatgpt-codex) | ChatGPT project setups and Codex skills for building software, researching, and repeatable work. |
+| [Grok](https://atlas-agents-hub.github.io/#atlas-grok) | Grok Bot templates, specialist teams, and reusable workflows. |
+| [Claude](https://atlas-agents-hub.github.io/#atlas-claude) | Claude project instructions, reusable skills, and coding workflows for Claude Code. |
 
-<img src="../assets/brand/muse-hub.png" width="44" height="44" alt="Muse Hub's electric-yellow M mark">
+## First release · Muse Hub
 
-Make Meta's Muse your own with 15 specialist assistant kits, working Spaces, and a library of 5,242 searchable skills.
-
-- **Do the work.** Choose a specialist for software development, research, creative production, or daily planning.
-- **Start with a working app.** Use Planner to manage projects, Task Board to move work forward, or Daily Desk to organize your day.
-- **Build your own setup.** Pick the skills, workflows, and examples that fit your project.
+Muse Hub is the first public release from Atlas Agents Hub. It includes 15 specialist assistant kits, working Spaces such as Planner and Task Board, and a searchable library of 5,242 skills. Choose a specialist or start with a working app you can customize.
 
 [Explore Muse Hub](https://atlas-agents-hub.github.io/muse-hub/) · [Get started](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/docs/GETTING_STARTED.md) · [Download a kit](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest)
 
 ## Contribute
 
-Visit the [Muse Hub repository](https://github.com/Atlas-Agents-Hub/muse-hub) to browse the source, suggest an improvement, or contribute. Use [Atlas Pages](../README.md) for the organization’s web entry point, redirects, and shared logos.
+Browse the source, suggest an improvement, or contribute in the [Muse Hub repository](https://github.com/Atlas-Agents-Hub/muse-hub). Use [Atlas Pages](../README.md) for the platform directory, redirects, and shared logos.

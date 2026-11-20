@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atlas-agents-hub.github.io/sitemap.xml
+Sitemap: https://atlas-agents-hub.github.io/muse-hub/sitemap.xml
