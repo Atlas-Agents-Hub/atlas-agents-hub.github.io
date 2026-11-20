@@ -11,6 +11,9 @@
 
 - [Muse Hub](https://atlas-agents-hub.github.io/muse-hub/): Specialist assistants, Spaces, reusable skills, and workflows for Meta Muse.
 - [Muse Hub downloads](https://atlas-agents-hub.github.io/muse-hub/downloads.html): Browse and download assistant kits and skills.
+- [Muse assistant setup](https://atlas-agents-hub.github.io/muse-hub/#setup): Configure a specialist assistant from a kit.
+- [Muse Space templates](https://atlas-agents-hub.github.io/muse-hub/#companion-spaces): Start from Planner, Task Board, or Daily Desk.
+- [Family Link](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/docs/FAMILY_LINK.md): Connect two Muse personal assistants to exchange requests and results.
 - [Muse Hub source](https://github.com/Atlas-Agents-Hub/muse-hub): Source, setup guides, and releases.
 - [Latest Muse Hub release](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest): Current public release and assets.
 
