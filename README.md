@@ -2,16 +2,16 @@
 
 # Atlas Agents Hub Pages
 
-This repository keeps the organization’s Pages entry point and earlier Muse URLs working. Follow these links to use or contribute to Muse Hub.
+This is the source for the Atlas web entry point. It hosts shared branding and sends older Muse Hub links to the right page.
 
-| If you want to… | Go here |
-| --- | --- |
-| Explore Muse Hub, Spaces, and specialists | [Muse Hub](https://atlas-agents-hub.github.io/muse-hub/) |
-| Get a versioned kit | [Muse Hub releases](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest) |
-| Report an issue or contribute | [Muse Hub repository](https://github.com/Atlas-Agents-Hub/muse-hub) |
+## Looking for Muse Hub?
 
-## Maintainer notes
+- [Open Muse Hub](https://atlas-agents-hub.github.io/muse-hub/) to browse assistants, Spaces, and skills.
+- [Set up your first assistant](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/docs/GETTING_STARTED.md) or [download a starter kit](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest).
+- [Open the Muse Hub repository](https://github.com/Atlas-Agents-Hub/muse-hub) for source code, issues, and contributions.
 
-The organization root opens the Muse Hub homepage. The `muse-ai-agent-presets/` folder preserves earlier project URLs, including links to the library and download pages. When editing a redirect, verify its canonical destination and fallback link, then test query strings and section anchors in a browser.
+## How the redirects work
 
-[Organization guide](docs/ORGANIZATION.md) · [Atlas Agents Hub on GitHub](https://github.com/Atlas-Agents-Hub)
+The site root opens Muse Hub. Redirects in `muse-ai-agent-presets/` keep older links to the homepage, skill library, and downloads working. When editing a redirect, check its target and verify that search parameters and section links survive.
+
+[About Atlas Agents Hub](docs/ORGANIZATION.md) · [Atlas logos](assets/brand/)
