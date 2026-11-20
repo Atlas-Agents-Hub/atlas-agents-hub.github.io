@@ -52,6 +52,11 @@ figcaption { margin-top: .5rem; color: var(--muted); font-size: .875rem; }
 .platforms { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 1.7rem 0 0; padding: 0; list-style: none; border-top: 1px solid var(--rule); border-left: 1px solid var(--rule); }
 .platforms li { padding: 1.15rem; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
 .platforms p { margin: .6rem 0 .4rem; color: var(--muted); }
+.getting-started { padding-block: clamp(2.8rem, 6vw, 5rem); }
+.starting-points { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 1.25rem 2rem; margin-top: 1.7rem; }
+.starting-points > div { display: flex; flex-direction: column; align-items: start; border-top: 1px solid var(--rule); padding-top: 1rem; }
+.starting-points p { margin-block: .6rem .4rem; color: var(--muted); }
+.starting-points a { display: inline-flex; min-height: 44px; align-items: center; margin-top: auto; font-weight: 650; }
 .site-footer { border-top: 1px solid var(--rule); }
 .footer-inner span { font-weight: 700; margin-right: auto; }
 
