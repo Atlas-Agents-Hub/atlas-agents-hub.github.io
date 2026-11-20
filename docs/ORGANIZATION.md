@@ -2,24 +2,20 @@
 
 # Atlas Agents Hub
 
-Build assistants for the work you do. Our projects bring together specialist assistant kits, repeatable workflows, and starter apps for building software, researching, creating media, and organizing daily work.
+We build AI assistants and apps you can make your own. Choose a specialist, use a working app as your starting point, or add individual skills to an assistant you already use.
 
-## Start with Muse Hub
+## Muse Hub
 
 <img src="../assets/brand/muse-hub.png" width="44" height="44" alt="Muse Hub's electric-yellow M mark">
 
-**Muse Hub** is a toolkit for Meta's Muse AI. Start with a working app like Planner, Task Board, or Daily Desk. Find a specialist for engineering, research, creative production, or personal planning, then add the skills and workflows your project needs.
+Make Meta's Muse your own with 15 specialist assistant kits, working Spaces, and a library of 5,242 searchable skills.
 
-- [Explore Muse Hub](https://atlas-agents-hub.github.io/muse-hub/) to see the Spaces and browse specialists.
-- [Get started](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/docs/GETTING_STARTED.md) to set up your first kit.
-- [Download the latest release](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest) for versioned ZIPs and checksums.
+- **Do the work.** Choose a specialist for software development, research, creative production, or daily planning.
+- **Start with a working app.** Use Planner to manage projects, Task Board to move work forward, or Daily Desk to organize your day.
+- **Build your own setup.** Pick the skills, workflows, and examples that fit your project.
 
-## Work with the project
+[Explore Muse Hub](https://atlas-agents-hub.github.io/muse-hub/) · [Get started](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/docs/GETTING_STARTED.md) · [Download a kit](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest)
 
-Read the [Muse Hub documentation](https://github.com/Atlas-Agents-Hub/muse-hub/tree/main/docs), [report a reproducible issue](https://github.com/Atlas-Agents-Hub/muse-hub/issues), or follow the [contribution guide](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/CONTRIBUTING.md).
+## Contribute
 
-## Organization Pages
-
-<img src="../assets/brand/atlas-pages.png" width="36" height="36" alt="Atlas Pages mark in slate blue">
-
-The [organization Pages repository](https://github.com/Atlas-Agents-Hub/atlas-agents-hub.github.io) maintains stable redirects for earlier project URLs.
+Visit the [Muse Hub repository](https://github.com/Atlas-Agents-Hub/muse-hub) to browse the source, suggest an improvement, or contribute. Use [Atlas Pages](../README.md) for the organization’s web entry point, redirects, and shared logos.
