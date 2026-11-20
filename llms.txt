@@ -1,0 +1,22 @@
+# Atlas Agents Hub
+
+> Atlas Agents Hub is a collection of platform-specific AI assistant hubs for the Meta Muse Personal AI Assistant, ChatGPT and Codex, Grok, and Claude. Muse Hub is the first public release.
+
+## Official sources
+
+- [Atlas Agents Hub](https://atlas-agents-hub.github.io/): Platform directory and entry points.
+- [Atlas Agents Hub on GitHub](https://github.com/Atlas-Agents-Hub): Organization and repositories.
+
+## Muse Hub
+
+- [Muse Hub](https://atlas-agents-hub.github.io/muse-hub/): Specialist assistants, Spaces, reusable skills, and workflows for Meta Muse.
+- [Muse Hub downloads](https://atlas-agents-hub.github.io/muse-hub/downloads.html): Browse and download assistant kits and skills.
+- [Muse Hub source](https://github.com/Atlas-Agents-Hub/muse-hub): Source, setup guides, and releases.
+- [Latest Muse Hub release](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest): Current public release and assets.
+
+## Platform directory
+
+- [Meta Muse](https://atlas-agents-hub.github.io/#atlas-meta-muse): Personal assistant kits, working Spaces, and skills.
+- [ChatGPT and Codex](https://atlas-agents-hub.github.io/#atlas-chatgpt-codex): Project setups, skills, and coding workflows.
+- [Grok](https://atlas-agents-hub.github.io/#atlas-grok): Grok Bot templates, specialist teams, and workflows.
+- [Claude](https://atlas-agents-hub.github.io/#atlas-claude): Project instructions, reusable skills, and Claude Code workflows.

@@ -1,17 +1,18 @@
 <img src="assets/brand/atlas-pages.png" width="56" height="56" alt="Atlas Pages mark in slate blue">
 
-# Atlas Agents Hub Pages
+# Atlas Agents Hub website
 
-This is the source for the Atlas web entry point. It hosts shared branding and sends older Muse Hub links to the right page.
+[Atlas Agents Hub](https://atlas-agents-hub.github.io/) is a collection of platform-specific hubs with AI assistant kits, reusable skills, workflows, and working apps.
 
-## Looking for Muse Hub?
+- **Meta Muse Personal AI Assistant.** [Muse Hub](https://atlas-agents-hub.github.io/muse-hub/) is the first public release. Find a specialist, start with Muse Planner or Task Board, or [browse the skills library](https://atlas-agents-hub.github.io/muse-hub/downloads.html).
+- **ChatGPT and Codex.** Project setups, Codex skills, and workflows for software development.
+- **Grok.** Grok Bot templates, specialist teams, and reusable automation workflows.
+- **Claude.** Project instructions, reusable skills, and workflows for Claude Code.
 
-- [Open Muse Hub](https://atlas-agents-hub.github.io/muse-hub/) to browse assistants, Spaces, and skills.
-- [Set up your first assistant](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/docs/GETTING_STARTED.md) or [download a starter kit](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest).
-- [Open the Muse Hub repository](https://github.com/Atlas-Agents-Hub/muse-hub) for source code, issues, and contributions.
+[Explore the Atlas platform directory](https://atlas-agents-hub.github.io/#atlas-platforms) · [Muse Hub source and setup](https://github.com/Atlas-Agents-Hub/muse-hub) · [Download the latest Muse Hub release](https://github.com/Atlas-Agents-Hub/muse-hub/releases/latest)
 
-## How the redirects work
+## Website source
 
-The site root opens Muse Hub. Redirects in `muse-ai-agent-presets/` keep older links to the homepage, skill library, and downloads working. When editing a redirect, check its target and verify that search parameters and section links survive.
+This repository publishes the Atlas homepage and shared branding. Redirects under `muse-ai-agent-presets/` preserve older Muse Hub homepage, library, and download URLs. When editing a redirect, verify its target, query parameters, and section links.
 
 [About Atlas Agents Hub](docs/ORGANIZATION.md) · [Atlas logos](assets/brand/)
